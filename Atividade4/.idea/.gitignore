@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+.idea/
+Atividade1/.idea
+Atividade2/.idea
+Atividade3/.idea
+Atividade4/.idea
+Atividade5/.idea
+Atividade6/.idea
+Atividade7/.idea
+Atividade8/.idea

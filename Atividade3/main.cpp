@@ -1,4 +1,4 @@
-#include "Fracao.h"
+#include <iostream>
 
 int main() {
     Fracao fracao1(2, 3);

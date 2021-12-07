@@ -1,15 +1,4 @@
-//
-// Created by raul_ on 10/15/2021.
-//
-// Criar um programa em C++ que:
-//
-//- Receba N números inteiro do usuário, até o usuário digitar -1
-//- Escreva os valores convertidos em hexadecimal e octal para uma string
-//- Substitua todos os "0x" por "HEXA"
-//- Imprima a string na tela
-
 #include <iostream>
-#include <sstream>
 
 int main() {
     int val;
@@ -42,4 +31,3 @@ int main() {
     cout << finalOutput.str();
     return 0;
 }
-
